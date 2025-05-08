@@ -76,4 +76,4 @@
 
 </td></tr></table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jskinner9&show_icons=true&locale=en&layout=compact" alt="jskinner9" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jskinner9&show_icons=true&locale=en&layout=compact&theme=dark" alt="jskinner9" /></p>
