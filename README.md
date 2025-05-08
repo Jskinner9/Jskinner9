@@ -7,9 +7,9 @@
 
 <h3 align="center">Languages and Tools</h3>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; flex-direction: row; justify-content: center; flex-wrap: wrap;">
   <!-- Front End -->
-  <div style="margin: 10px;">
+  <div style="margin: 0 15px;">
     <h4 align="center">Front End</h4>
     <table>
       <tr>
@@ -56,7 +56,7 @@
   </div>
 
   <!-- Back End -->
-  <div style="margin: 10px;">
+  <div style="margin: 0 15px;">
     <h4 align="center">Back End</h4>
     <table>
       <tr>
@@ -103,7 +103,7 @@
   </div>
 
   <!-- Mobile Development -->
-  <div style="margin: 10px;">
+  <div style="margin: 0 15px;">
     <h4 align="center">Mobile</h4>
     <table>
       <tr>
@@ -124,7 +124,7 @@
   </div>
 
   <!-- Cloud & DevOps -->
-  <div style="margin: 10px;">
+  <div style="margin: 0 15px;">
     <h4 align="center">Cloud & DevOps</h4>
     <table>
       <tr>
@@ -140,20 +140,26 @@
             <span>GCP</span>
           </a>
         </td>
+      </tr>
+      <tr>
         <td align="center">
           <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/><br/>
             <span>Docker</span>
           </a>
         </td>
+        <td align="center">
+          <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/><br/>
+            <span>Git</span>
+          </a>
+        </td>
       </tr>
     </table>
   </div>
-</div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- Design & Graphics -->
-  <div style="margin: 10px;">
+  <div style="margin: 0 15px;">
     <h4 align="center">Design</h4>
     <table>
       <tr>
@@ -169,18 +175,28 @@
             <span>Blender</span>
           </a>
         </td>
+      </tr>
+      <tr>
         <td align="center">
           <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/><br/>
             <span>Photoshop</span>
           </a>
         </td>
+        <td align="center">
+          <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="50" height="50"/><br/>
+            <span>Qt</span>
+          </a>
+        </td>
       </tr>
     </table>
   </div>
+</div>
 
+<div style="display: flex; flex-direction: row; justify-content: center; margin-top: 20px; flex-wrap: wrap;">
   <!-- AI & Machine Learning -->
-  <div style="margin: 10px;">
+  <div style="margin: 0 15px;">
     <h4 align="center">AI & ML</h4>
     <table>
       <tr>
@@ -200,9 +216,9 @@
     </table>
   </div>
 
-  <!-- Game Development and Other -->
-  <div style="margin: 10px;">
-    <h4 align="center">Other</h4>
+  <!-- Game Development -->
+  <div style="margin: 0 15px;">
+    <h4 align="center">Game Dev</h4>
     <table>
       <tr>
         <td align="center">
@@ -215,12 +231,6 @@
           <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
             <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/><br/>
             <span>Arduino</span>
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="50" height="50"/><br/>
-            <span>Qt</span>
           </a>
         </td>
       </tr>
